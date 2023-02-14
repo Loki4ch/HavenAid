@@ -12,7 +12,6 @@ const StyledMainLayout = styled.div`
   }
 `
 
-
 const MainLayout = (props) => {
     return (
         <StyledMainLayout>
