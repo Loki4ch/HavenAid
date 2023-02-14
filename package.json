@@ -45,8 +45,6 @@
     "babel-preset-react": "^6.24.1",
     "formik": "^2.2.9",
     "less-loader": "^11.0.0",
-    "luxon": "^3.0.3",
-    "moment": "^2.29.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -60,3 +58,4 @@
     "yup": "^0.32.11"
   }
 }
+

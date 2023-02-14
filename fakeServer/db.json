@@ -934,6 +934,21 @@
       "password": "3333",
       "userAppointment": {},
       "id": 52
+    },
+    {
+      "name": "Egor",
+      "email": "goshaxp0@gmail.com",
+      "password": "123",
+      "userAppointment": {},
+      "id": 53,
+      "lastName": "Philippov"
+    },
+    {
+      "name": "zx",
+      "email": "goshaxp0@gmail.com",
+      "password": "123",
+      "userAppointment": {},
+      "id": 54
     }
   ],
   "appointments": [
